@@ -2,6 +2,7 @@
 I’m a Junior Web Developer with hands‑on experience in HTML, CSS, JavaScript, WordPress and Django. I enjoy turning ideas into responsive, functional and visually engaging websites that bring real value to users.
 
 Alongside development, I run my freelance film and photography business, which has strengthened my visual design skills, client communication and ability to manage projects end‑to‑end. That experience shapes how I approach layout, spacing and user experience in my development work.
+
 When I’m not coding, I’m usually out exploring Cornwall in my campervan or working on small side projects to sharpen my skills.
 
 ---
