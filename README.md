@@ -36,4 +36,4 @@ I enjoy building small side projects to sharpen my skills and experimenting with
 
 ## 📫 Get in Touch
 **Email:** callum.randall@me.com  
-**LinkedIn:** https://www.linkedin.com/in/callum-randall  
+**LinkedIn:** https://www.linkedin.com/in/callum-randall1 
