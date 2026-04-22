@@ -18,7 +18,7 @@ When I’m not coding, I’m usually out exploring Cornwall in my campervan or w
 A community platform for discovering and sharing walking routes across Cornwall.  
 **Features:** authentication, CRUD, interactive maps, mobile‑first design, reusable templates.  
 🔗 Live: https://cornish-walks-34ed89614ebb.herokuapp.com/  
-🔗 Repo: https://github.com/cal129/Cornwall-walk
+🔗 Repo: https://github.com/cal129/Cornwall_walk
 
 ---
 
